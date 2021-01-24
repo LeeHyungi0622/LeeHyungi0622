@@ -1,7 +1,7 @@
 <h3>나의 GitHub 잔디 관리 </h3>
-<div style="text-align:center">
+<p align="center">
 <img src="http://ghchart.rshah.org/LeeHyungi0622" alt="Lee Hyungi's Github chart">
-</div>
+</p>
 
 <h2> 안녕하세요! 찐 개발자가 되고 싶은 제 이름은 이현기 입니다. 👋
  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="260"/>
