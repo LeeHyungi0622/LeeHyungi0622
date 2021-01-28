@@ -11,6 +11,9 @@
 - 🎓 &nbsp; 현재 자료구조와 알고리즘 공부를 틈틈이 하고 있습니다.</br>
 - 🤔 &nbsp; 항상 새로운 기술과 개발에 필요한 지식을 쌓기 위해 자기개발을 하고 있습니다.</br>
 - 🎓 &nbsp; 단순 코더가 아닌 컴퓨팅 사고를 할 수 있는 찐 개발자가 되기 위해 노력하고 있습니다. </br>
+- 👨 &nbsp; TDD(Test-Driven Development)방식을 지향하는 개발자가 되기위해 노력합니다. </br>
+- 👨 &nbsp; 항상 더 나은 코드를 작성하기 위해서 Code Refactoring을 진행하고 있습니다. </br>
+
 </br>
 <h3>🛠 Tech Stack</h3>
 - 💻 &nbsp; Python </br>  
