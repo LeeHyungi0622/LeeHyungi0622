@@ -17,7 +17,7 @@
 </br>
 <h3>🛠 Tech Stack</h3>
 - 💻 &nbsp; Python </br>  
-- 🌐 &nbsp; HTML | CSS | JavaScript </br>
+- 🌐 &nbsp; HTML | CSS | JavaScript | TypeScript </br>
 - 🛢 &nbsp;  </br>
 - 🔧 &nbsp; Visual Studio code | Git</br>
 
