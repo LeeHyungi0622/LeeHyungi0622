@@ -15,12 +15,11 @@
 <h3>🛠 Tech Stack</h3>
 - 💻 &nbsp; Python </br>  
 - 🌐 &nbsp; HTML | CSS | JavaScript </br>
-- 🛢 &nbsp;  </br>
+- 🛢 &nbsp; MongoDB </br>
 - 🔧 &nbsp; Visual Studio code | Git</br>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLeeHyungi0622&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-| [![Lee Hyungi's github stats](https://github-readme-stats.vercel.app/api?username=LeeHyungi0622&show_icons=true&theme=gruvbox)](https://github.com/MikeHyungiLee/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeHyungi0622&layout=compact)](https://github.com/LeeHyungi0622/github-readme-stats) |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+[![Lee Hyungi's github stats](https://github-readme-stats.vercel.app/api?username=LeeHyungi0622&show_icons=true&theme=gruvbox)](https://github.com/MikeHyungiLee/github-readme-stats)
 
 </br>
