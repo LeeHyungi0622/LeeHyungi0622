@@ -35,3 +35,7 @@
 </div>
 
 </br>
+
+📫 How to reach me
+
+[![monggu.dev@gmail.com](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hyungi.lee.622@gmail.com)](mailto:hyungi.lee.622@gmail.com) : hyungi.lee.622@gmail.com
