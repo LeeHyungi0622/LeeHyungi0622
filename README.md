@@ -1,8 +1,3 @@
-<h3>나의 GitHub 잔디 관리 </h3>
-<p align="center">
-<img src="http://ghchart.rshah.org/LeeHyungi0622" alt="Lee Hyungi's Github chart">
-</p>
-<hr/>
 <h2> ☀️ 안녕하세요! 꾸준함을 믿고 매일 매일 자기개발을 하며 프론트엔드 개발자가 되기위해 노력하는 제 이름은 이현기입니다.
 
  <h3> 👨🏻‍💻 About Me </h3>
